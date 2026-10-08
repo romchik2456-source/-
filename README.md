@@ -11,3 +11,5 @@
 - [Mermaid](/Mermaid.md)
 
 - [bashcli](/bashcli.md)
+
+- [Bash Скрипт](https://github.com/romchik2456-source/-/blob/main/bachskript.md)
