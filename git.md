@@ -1,6 +1,6 @@
 ## Git. Основы
  
-git.md
+`git.md`
  
 ![Logo](/img/9.png)
  
