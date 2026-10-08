@@ -2,7 +2,7 @@
  
 git.md
  
-img/9.png
+![Logo](/img/9.png)
  
 ### Зачем нужен Git?
  
@@ -359,7 +359,7 @@ git merge anybranch
  
 ### Мэмы по Git
  
-img/8.png
+![logo](/img/8.png)
  
 ![Какой-то текст](https://salferrarello.com/wp-content/uploads/2018/06/git-push-force-not-how-it-works.jpg)
 
