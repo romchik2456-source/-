@@ -2,7 +2,7 @@
  
 git.md
  
-![Linus](/content/img/linus-torvalds-about-nvidia-june-2012.jpg)
+![logo](/img9/Linus.png)
  
 ### Зачем нужен Git?
  
@@ -359,13 +359,10 @@ git merge anybranch
  
 ### Мэмы по Git
  
-![Какой-то текст](/content/Git/img/1.jpg)
+![Logo](/img8/mems.png)
  
-![Какой-то текст](/content/Git/img/2.jpg)
- 
-![Какой-то текст](/content/Git/img/3.jpg)
- 
-![Какой-то текст](/content/Git/img/4.jpg)
- 
+![Какой-то текст](https://salferrarello.com/wp-content/uploads/2018/06/git-push-force-not-how-it-works.jpg)
+
+ ![Какой-то текст](https://images.meme-arsenal.com/13cfd890ab39b35a0df45fe57347c752.jpg)
 > Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!
  
