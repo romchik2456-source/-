@@ -2,7 +2,7 @@
  
 `git.md`
  
-![Linus](/content/img/linus-torvalds-about-nvidia-june-2012.jpg)
+![Linus](/img/9.png)
  
 ### Зачем нужен Git?
  
@@ -363,7 +363,7 @@ git merge anybranch
  
 ### Мэмы по Git
  
-![Какой-то текст](/content/Git/img/1.jpg)
+!![Logo](/img/8.png)
  
 ![Какой-то текст](/content/Git/img/2.jpg)
  
